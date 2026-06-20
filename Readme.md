@@ -1,6 +1,6 @@
 # Retail Sales Analysis Dashboard
 
-An end-to-end Exploratory Data Analysis (EDA) project in Python investigating retail transaction data to uncover sales trends, regional distribution, and product profitability.
+An Exploratory Data Analysis (EDA) project in Python investigating retail transaction data to uncover sales trends, regional distribution, and product profitability.
 
 ## 📊 Dashboard Overview
 * **Monthly Sales & Profit Trend:** Tracks seasonal fluctuations and baseline profitability.
